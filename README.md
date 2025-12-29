@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi There!👋
 
-<!--
-**ThiagoNeves01/ThiagoNeves01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vinícius Prado. I'm 19 years old, and in 2023 I had my first contact with the world of programming. I started with HTML and CSS, and today my main focus is on developing web applications using the Spring Framework (Java) and React.
+I'm passionate about learning and constantly seeking to expand my knowledge.
+<br>I have basic knowledge of Spring.<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📘 English level: medium
+🎓 Systems Analysis and Development – SENAC, Florianópolis
+💡 Seeking knowledge
+
+
+
+Tools that I dominate
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,html,css,java,spring,postman,mysql,maven,docker)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
+
+My social media
+<a href="https://www.linkedin.com/in/vinícius-prado-210701234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinicius de Souza Prado" height="30" width="40" /></a>
