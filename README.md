@@ -5,9 +5,9 @@ I'm passionate about learning and constantly seeking to expand my knowledge.
 <br>I have basic knowledge of Spring.<br/>
 
 
-📘 English level: medium
-🎓 Systems Analysis and Development – Cruzeiro do Sul, Säo Paulo
-💡 Seeking knowledge
+- 📘 English level: medium
+- 🎓 Systems Analysis and Development – Cruzeiro do Sul, Säo Paulo
+- 💡 Seeking knowledge
 
 
 
