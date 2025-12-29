@@ -1,6 +1,6 @@
 Hi There!👋
 
-My name is Thiago de Oliveira Neves. I'm 21 years old, and in 2023 I had my first contact with the world of programming. I started with HTML and CSS, and today my main focus is on developing web applications using the Spring Framework (Java) and React.
+My name is Thiago de Oliveira Neves. I'm 21 years old, and in 2023 I had my first contact with the world of programming. I started with HTML and CSS, and today my main focus is on developing web applications using the Python and React.
 I'm passionate about learning and constantly seeking to expand my knowledge.
 <br>I have basic knowledge of Spring.<br/>
 
@@ -13,7 +13,7 @@ I'm passionate about learning and constantly seeking to expand my knowledge.
 
 Tools that I dominate
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,mysql,react,python)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
