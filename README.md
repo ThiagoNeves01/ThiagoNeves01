@@ -13,7 +13,7 @@ I'm passionate about learning and constantly seeking to expand my knowledge.
 
 Tools that I dominate
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,mysql,react,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,mysql,react,python)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
